@@ -1,0 +1,2 @@
+# slimsql
+sqlをラップしたAPI
